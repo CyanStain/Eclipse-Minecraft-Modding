@@ -75,4 +75,4 @@ public class TutorialMod
     		return new ItemStack(BlockInit.example_block);
     	}
     }
-}
+} 
