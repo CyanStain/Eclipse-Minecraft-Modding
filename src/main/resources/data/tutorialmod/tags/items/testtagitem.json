@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"tutorialmod:example_item",
+		"tutorialmod:foot_lettuce",
+		"minecraft:apple",
+		"tutorialmod:special_item"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"tutorialmod:example_block",
+		"tutorialmod:example_ore",
+		"minecraft:cactus",
+		"minecraft:dirt"
+	]
+}
